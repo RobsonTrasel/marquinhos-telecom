@@ -15,8 +15,10 @@
   height: auto;
 }
 
-.image-grid img:hover {
-  border: 1px red solid;
+.image-grid img:focus,
+.image-grid img:hover
+ {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
 
 .image-grid div {

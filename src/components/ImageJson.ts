@@ -12,7 +12,7 @@ export const ImageJson = [
     {
         id: 1,
         path: foto1,
-        description: "Marquinhos Barbudo"
+        description: "Marquinhos namorador"
     },
     {
         id: 2,
